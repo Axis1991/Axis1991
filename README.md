@@ -2,7 +2,7 @@
 
 My name is Grzegorz Romaniuk and I have decided to make some changes in my life and join the IT sector. For years I have been passionately teaching English to people of all ages, mostly teenagers, but recently I began to feel the need for diversity, development and new challenges. 
 
-Communication and collaboration have always been high on my priorities list when it comes to the job description. The fact that scrum has been growing in popularity among IT companies, and I wholeheartedly support this approach, made IT an appealing choice. What cemented it for me, though, was the fact that, for as long as I can remember, I have loved solving puzzles, optimizing my work and analysing best methods to fulfil my goals - both in my professional life (choosing the best teaching strategies) as well as hobbies (city-building, RPG and strategic PC & board games ;) ).
+Communication and collaboration have always been high on my priorities list when it comes to the job description. The fact that scrum has been growing in popularity among IT companies, and I wholeheartedly support this approach, made IT an appealing choice. What cemented it for me, though, was the fact that, for as long as I can remember, I have loved solving puzzles, optimizing my work and analysing the best methods to fulfil my goals - both in my professional life (choosing the best teaching strategies) as well as hobbies (city-building, RPG and strategic PC & board games ;) ).
 
 I am now looking to join a team with whom I will be able to grow and who are going to appreciate my being able have great conversation with potential business partners, openness to learning new things, attention to detail, and no small amount of sense of humour ;).
 
