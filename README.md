@@ -6,10 +6,10 @@ Communication and collaboration have always been high on my priorities list when
 
 I am now looking to join a team with whom I will be able to grow and who are going to appreciate my being able have great conversation with potential business partners, openness to learning new things, attention to detail, and no small amount of sense of humour ;).
 
-😄 In the five months since I became serious about changing my line of work I have learnt:
+**😄 In the five months since I became serious about changing my line of work I have learnt:**
+- object-oriented programming (mostly in Python, but I have started learning C# too and I can see a lot of potential there too!)
 - reasonable amount of HTML & CSS to independently write what I want and make it look acceptably good (I'm aware that there is some room for improvement there =) ).
 - how to use SQL on the basis of SQLite 3 and some MSSQL
-- object-oriented programming (mostly in Python, but I have started learning C# too and I can see a lot of potential there too!)
 
 These things are demonstrated in a Flask program [here](https://github.com/Axis1991/MonthlyBudget), which is deployed on https://axis91.pythonanywhere.com/
 
@@ -19,17 +19,15 @@ These things are demonstrated in a Flask program [here](https://github.com/Axis1
 - use Azure DevOps to collaborate in projects
 - perhaps most importantly - how to look for information using forums, documentation and some AI tools, to get me where I need to be with my code.
 
-Here are some ideas to get you started:
- 
-🌱 I’m looking forward to:
+**🌱 I’m looking forward to:**
 - pass ISTQB foundation level exam
 - develop my knowledge about C#, .Net and Entity Framework
 - getting to know how to use the python knowledge I have in Django framework
 
-👯 I’m currently collaborating on:
-- non-profit project for church community as part-time scrum master and Frontend/C# developer using Blazor (early stages)
+**👯 I’m currently collaborating on:**
+- a non-profit project for church community as part-time scrum master and Frontend/C# developer using Blazor (early stages)
 
-🤝 I you are looking for someone ambitious and outgoing who wants share their dedication and positive outlook on life with others, don't hesitate to reach out to me!
+**🤝 I you are looking for someone ambitious and outgoing who wants share their dedication and positive outlook on life with others, don't hesitate to reach out to me!**
 - [LinkedIn](https://www.linkedin.com/in/grzegorz-romaniuk-847269281)
 - [Gmail](mailto:gromaniuk0@gmail.com)
 - [Facebook](https://www.facebook.com/Axis1991)
