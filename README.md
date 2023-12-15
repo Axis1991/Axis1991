@@ -14,13 +14,13 @@ I am now looking to join a team with whom I will be able to grow and who are goi
 These things are demonstrated in a Flask program [here](https://github.com/Axis1991/MonthlyBudget), which is deployed on https://axis91.pythonanywhere.com/
 
 - to write unit, functional and integration tests (see [here](https://github.com/Axis1991/Budget_for_testing/tree/budget_tests_for_review))
+- the theory of professional testing (ISTQB Foundation Level Certificate)
 - to work in scrum framework (PSM 1 Certificate)
 - how to write code according to DRY, KISS, YAGNI etc. to the extent it makes sense
 - use Azure DevOps to collaborate in projects
 - perhaps most importantly - how to look for information using forums, documentation and some AI tools, to get me where I need to be with my code.
 
 **🌱 I’m looking forward to:**
-- pass ISTQB foundation level exam
 - develop my knowledge about C#, .Net and Entity Framework
 - getting to know how to use the python knowledge I have in Django framework
 
