@@ -6,7 +6,7 @@ Communication and collaboration have always been high on my priorities list when
 
 I am now looking to join a team with whom I will be able to grow and who are going to appreciate my being able have great conversation with potential business partners, openness to learning new things, attention to detail, and no small amount of sense of humour ;).
 
-**😄 In the five months since I became serious about changing my line of work I have learnt:**
+**😄 In the seven months since I became serious about changing my line of work I have learnt:**
 - object-oriented programming (mostly in Python, but I have started learning C# too and I can see a lot of potential there too!)
 - reasonable amount of HTML & CSS to independently write what I want and make it look acceptably good (I'm aware that there is some room for improvement there =) ).
 - how to use SQL on the basis of SQLite 3 and some MSSQL
