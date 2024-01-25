@@ -15,6 +15,7 @@ These things are demonstrated in a Flask program [here](https://github.com/Axis1
 
 - to write unit, functional and integration tests (see [here](https://github.com/Axis1991/Budget_for_testing/tree/budget_tests_for_review))
 - the theory of professional testing (ISTQB Foundation Level Certificate)
+- to use Postman and automate testing API REST requests assertions with CI/CD Github actions (and got an API Test Automation badge from Postman)
 - to work in scrum framework (PSM 1 Certificate)
 - how to write code according to DRY, KISS, YAGNI etc. to the extent it makes sense
 - use Azure DevOps to collaborate in projects
